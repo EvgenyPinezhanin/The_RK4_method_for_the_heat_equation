@@ -1,1 +1,1 @@
-# The_RK4_method_for_the_heat_equation
+# Implementation of the Runge–Kutta 4 method for the heat equation
